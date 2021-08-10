@@ -1,4 +1,3 @@
-import React, { useState } from 'react';
 import { Image, View, Text, StatusBar } from 'react-native';
 
 import { styles } from './styles';
